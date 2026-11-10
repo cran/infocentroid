@@ -1,6 +1,6 @@
 Package: infocentroid
 Title: Information-Dense Centroid Metrics
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Ahmet", "Kutuk", email = "ahmetkutuk@gmail.com", role = c("aut", "cre"))
 Description: Traditional central tendency and dispersion measures such as the
@@ -19,8 +19,8 @@ URL: https://github.com/ahmetkutuk1/infocentroid
 BugReports: https://github.com/ahmetkutuk1/infocentroid/issues
 Config/roxygen2/version: 8.1.1
 NeedsCompilation: no
-Packaged: 2026-10-25 18:09:55 UTC; TEKNO
+Packaged: 2026-11-10 20:15:07 UTC; Ahmet
 Author: Ahmet Kutuk [aut, cre]
 Maintainer: Ahmet Kutuk <ahmetkutuk@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-11-08 18:10:02 UTC
+Date/Publication: 2026-11-10 22:30:02 UTC
